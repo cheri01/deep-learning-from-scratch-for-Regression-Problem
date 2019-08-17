@@ -3,7 +3,7 @@
 
 元々オライリーさんの方で回帰問題に必要なパーツは公開されていたので、最小限の再編のみで回帰問題向けに変更しています。
 
-データとしてはScikitLearnのBostonデータを使用する様なコードにしていますので、自分のデータを使用したい方はデータ読み込み部分を編集していただければと思います。
+データとしてはScikitLearnのBostonデータを使用する様なコードにしていますので、自分のデータを使用したい方はtrain_neuralnet.pyのデータ読み込み部分を編集していただければと思います。
 
 オライリー・ジャパンのGitHub
 https://github.com/oreilly-japan/deep-learning-from-scratch
